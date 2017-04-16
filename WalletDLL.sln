@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WalletDLL", "WalletDLL\WalletDLL.vcxproj", "{E307A4A7-B56F-48EF-A4C7-601AFC37FD8B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLTest", "DLLTest\DLLTest.vcxproj", "{22B7375A-4233-4EE7-816E-4E639376A17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E307A4A7-B56F-48EF-A4C7-601AFC37FD8B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E307A4A7-B56F-48EF-A4C7-601AFC37FD8B}.Debug|Win32.Build.0 = Debug|Win32
+		{E307A4A7-B56F-48EF-A4C7-601AFC37FD8B}.Release|Win32.ActiveCfg = Release|Win32
+		{E307A4A7-B56F-48EF-A4C7-601AFC37FD8B}.Release|Win32.Build.0 = Release|Win32
+		{22B7375A-4233-4EE7-816E-4E639376A17E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22B7375A-4233-4EE7-816E-4E639376A17E}.Debug|Win32.Build.0 = Debug|Win32
+		{22B7375A-4233-4EE7-816E-4E639376A17E}.Release|Win32.ActiveCfg = Release|Win32
+		{22B7375A-4233-4EE7-816E-4E639376A17E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
